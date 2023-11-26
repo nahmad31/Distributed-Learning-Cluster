@@ -1,0 +1,11 @@
+Total Number of Matching Lines 4990000
+test1.log:499000
+test10.log:499000
+test2.log:499000
+test3.log:499000
+test4.log:499000
+test5.log:499000
+test6.log:499000
+test7.log:499000
+test8.log:499000
+test9.log:499000

@@ -1,0 +1,11 @@
+Total Number of Matching Lines 130
+test1.log:20
+test10.log:0
+test2.log:20
+test3.log:20
+test4.log:20
+test5.log:10
+test6.log:10
+test7.log:10
+test8.log:10
+test9.log:10

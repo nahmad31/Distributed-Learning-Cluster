@@ -1,0 +1,11 @@
+Total Number of Matching Lines 0
+test1.log:0
+test10.log:0
+test2.log:0
+test3.log:0
+test4.log:0
+test5.log:0
+test6.log:0
+test7.log:0
+test8.log:0
+test9.log:0
